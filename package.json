@@ -1,0 +1,25 @@
+{
+  "name": "ave_stroke_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamukou/AveStrokeApp.git"
+  },
+  "keywords": [
+    "ave_stroke_app"
+  ],
+  "author": "tamu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tamukou/AveStrokeApp/issues"
+  },
+  "homepage": "https://github.com/tamukou/AveStrokeApp#readme",
+  "dependencies": {
+    "pixi.js": "^5.1.5"
+  }
+}
