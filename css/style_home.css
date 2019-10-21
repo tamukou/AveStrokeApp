@@ -1,0 +1,23 @@
+.fixed-top {
+    background: rgb(71, 127, 179);
+    height:　50px;
+    line-height: 50px;
+}
+
+ul {
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+li {
+    display: inline-block;
+}
+
+p {
+    line-height: 60px;
+    margin: 0px;
+}
+.col {
+    color : #FFFFFF
+}
