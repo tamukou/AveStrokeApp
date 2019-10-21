@@ -7,10 +7,6 @@ Overview
 
 ## Demo
 
-## VS. 
-
-## Requirement
-
 ## Usage
 
 ## Install
